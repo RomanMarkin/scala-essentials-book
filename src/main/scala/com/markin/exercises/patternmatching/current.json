@@ -1,0 +1,637 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values"
+    },
+    "updated": {
+      "$t": "2019-12-06T15:18:25.243Z"
+    },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Sheet1"
+    },
+    "link": [
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "href": "https://docs.google.com/a/tmx.com.ua/spreadsheets/d/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/pubhtml"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#post",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values?alt\u003djson"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "d.sartakov"
+        },
+        "email": {
+          "$t": "d.sartakov@terwingroup.com"
+        }
+      }
+    ],
+    "openSearch$totalResults": {
+      "$t": "13"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cokwr"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380980661982"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Папазян Армен, department: ВН операційний департамент, position: ВН Заступник виконавчого директора з операційної діяльності"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cokwr"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380980661982"
+        },
+        "gsx$fio": {
+          "$t": "Папазян Армен"
+        },
+        "gsx$department": {
+          "$t": "ВН операційний департамент"
+        },
+        "gsx$position": {
+          "$t": "ВН Заступник виконавчого директора з операційної діяльності"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cpzh4"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380983648159"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Бровко Анна, department: ВН Офис, position: ВН Заступник виконавчого директора "
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cpzh4"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380983648159"
+        },
+        "gsx$fio": {
+          "$t": "Бровко Анна"
+        },
+        "gsx$department": {
+          "$t": "ВН Офис"
+        },
+        "gsx$position": {
+          "$t": "ВН Заступник виконавчого директора "
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cre1l"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380982937536"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio:  Швець Антон Эдуардович, department: ВН Офис, position: ВН охоронник"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cre1l"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380982937536"
+        },
+        "gsx$fio": {
+          "$t": " Швець Антон Эдуардович"
+        },
+        "gsx$department": {
+          "$t": "ВН Офис"
+        },
+        "gsx$position": {
+          "$t": "ВН охоронник"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/chk2m"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380990416900"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Адамовский Борис Иванович, department: ВН відділ безпеки, position: ВН охоронник"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/chk2m"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380990416900"
+        },
+        "gsx$fio": {
+          "$t": "Адамовский Борис Иванович"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ безпеки"
+        },
+        "gsx$position": {
+          "$t": "ВН охоронник"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/ciyn3"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380954812079"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Ломака Юрий Сергеевич, department: ВН відділ безпеки, position: ВН охоронник"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/ciyn3"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380954812079"
+        },
+        "gsx$fio": {
+          "$t": "Ломака Юрий Сергеевич"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ безпеки"
+        },
+        "gsx$position": {
+          "$t": "ВН охоронник"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/ckd7g"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380950317858"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Баранник Максим Васильевич, department: ВН відділ безпеки, position: ВН начальник служби охорони"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/ckd7g"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380950317858"
+        },
+        "gsx$fio": {
+          "$t": "Баранник Максим Васильевич"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ безпеки"
+        },
+        "gsx$position": {
+          "$t": "ВН начальник служби охорони"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/clrrx"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380962405855"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Куліш Ігор Миколайович, department: ВН відділ безпеки, position: ВН начальник служби охорони"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/clrrx"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380962405855"
+        },
+        "gsx$fio": {
+          "$t": "Куліш Ігор Миколайович"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ безпеки"
+        },
+        "gsx$position": {
+          "$t": "ВН начальник служби охорони"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cyevm"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380997291348"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Новицький Владислав Сергійович, department: ВН відділ безпеки, position: ВН начальник служби охорони"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cyevm"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380997291348"
+        },
+        "gsx$fio": {
+          "$t": "Новицький Владислав Сергійович"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ безпеки"
+        },
+        "gsx$position": {
+          "$t": "ВН начальник служби охорони"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cztg3"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380509459825"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Гранцева Олена Ігорівна, department: ВН відділ безпеки, position: ВН начальник служби охорони"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cztg3"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380509459825"
+        },
+        "gsx$fio": {
+          "$t": "Гранцева Олена Ігорівна"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ безпеки"
+        },
+        "gsx$position": {
+          "$t": "ВН начальник служби охорони"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/d180g"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380660634494"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Хотинич Юлія Ігорівна, department: ВН відділ підготовки та навчання персоналу, position: провідний фахівець з навчання персоналу"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/d180g"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380660634494"
+        },
+        "gsx$fio": {
+          "$t": "Хотинич Юлія Ігорівна"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ підготовки та навчання персоналу"
+        },
+        "gsx$position": {
+          "$t": "провідний фахівець з навчання персоналу"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/d2mkx"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380508883576"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Персенко Лілія Ігорівна, department: ВН відділ підготовки та навчання персоналу, position: фахівець з навчання персоналу"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/d2mkx"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380508883576"
+        },
+        "gsx$fio": {
+          "$t": "Персенко Лілія Ігорівна"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ підготовки та навчання персоналу"
+        },
+        "gsx$position": {
+          "$t": "фахівець з навчання персоналу"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cssly"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380931123363"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Сартаков Дмитро Сергійович, department: ВН відділ підготовки та навчання персоналу, position: босс СДО"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cssly"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380931123363"
+        },
+        "gsx$fio": {
+          "$t": "Сартаков Дмитро Сергійович"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ підготовки та навчання персоналу"
+        },
+        "gsx$position": {
+          "$t": "босс СДО"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cu76f"
+        },
+        "updated": {
+          "$t": "2019-12-06T15:18:25.243Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "380667866160"
+        },
+        "content": {
+          "type": "text",
+          "$t": "fio: Доброхотов Сергій Андрійович, department: ВН відділ підготовки та навчання персоналу, position: босс СДО"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/16-5RZnH7sey5zGhJGi16u4G20g76O0TidKPrx2p_mog/od6/public/values/cu76f"
+          }
+        ],
+        "gsx$phone": {
+          "$t": "380667866160"
+        },
+        "gsx$fio": {
+          "$t": "Доброхотов Сергій Андрійович"
+        },
+        "gsx$department": {
+          "$t": "ВН відділ підготовки та навчання персоналу"
+        },
+        "gsx$position": {
+          "$t": "босс СДО"
+        },
+        "gsx$firedate": {
+          "$t": ""
+        }
+      }
+    ]
+  }
+}
